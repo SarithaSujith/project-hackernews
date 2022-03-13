@@ -1,0 +1,20 @@
+h1 {
+	/* border: 5px solid red; */
+
+	background-color: orange;
+	/* box-sizing: border-box; */
+	width: 100vh;
+	text-align: center;
+}
+
+/* nav {
+	display: flex;
+	align-items: center;
+	height: 90px;
+	padding: 30px 25px;
+} */
+
+.main-nav {
+	display: flex;
+	height: 70px;
+}
